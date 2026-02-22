@@ -1,2 +1,1 @@
-# ai-coding-assistant-v2
-Web-based AI coding assistant with terminal interface
+# AI Coding Assistant v2\n\nTest build log capture.
